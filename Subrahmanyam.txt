@@ -1,0 +1,17 @@
+<html>
+<head><title>SubrahmanyamNaidu</title></head>
+<style>
+body{
+     background:linear-gradient(orange,white)
+}
+</style>
+<body>
+<h1>Hi!, My Name is SubrahmanyamNaidu,</h1>
+<p><h2>My Experence in this world is very less(18yrs),But one question chasing me from very
+early age on words,That is why i am alive! what is the reson?,What is the use of me?.Till  
+I did not got answer but i got a way for it.That to get answer I need to achieve peace!
+THANK YOU SEEING MY STORY!!
+<center><img width=50% height="70%" src="C:\Users\DELL\Downloads\476689.jpg"></center>
+</h2></p>
+</body>
+</html>
