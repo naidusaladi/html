@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="main.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Acad</title>
+</head>
+<body>
+
+    <div class="top"> 
+        <span class="navbar">
+         <p class="para-img ">TECH ACAD</p>
+            <ul class="box">
+                <li>
+                  <a href="#"><span class="ani bs">Home</span></a>  
+                </li>
+                 <li>
+                  <a href="details.html" class="ani"><span>Details</span></a>  
+                </li>
+                 <li>
+                  <a href="contact.html" class="ani"><span>ContactUs</span></a>  
+                </li>
+               
+            </ul>
+            
+        </span>
+        <div class="bg-img">
+            <p class="bg-para">TECH ACAD!.. </p>
+            <div class="main-btn">
+                <div>
+                    <button class="btn1">LOGIN</button>
+                </div>
+                 <div>
+                    <button class="btn2">SIGN UP</button>
+                </div>
+            </div>
+            
+        </div>
+        </div>
+</body>
+</html>
